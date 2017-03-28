@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="http">https://dictionary.yandex.net/api/v1/dicservice.json/lookup?</string>
+    <string name="dict_key">key=dict.1.1.20170302T010603Z.3ce71baa13fb3dac.59b97e2ae96fc72340e07de84d7114d38b642f03&amp;</string>
+    <string name="lang">lang=en-ru&amp;</string>
+    <string name="trnsl_key">trnsl.1.1.20170304T214430Z.08493dcfa4e0f8c6.550f6ec6926da206547a76c64f5adb50809c9e27</string>
+    <string name="find_btn">Найти слово</string>
+    <string name="pick_btn">Выбрать слова</string>
+    <string name="collection_btn">Коллекция</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="saved_word">Hello blank fragment</string>
+    <string name="FW_findBtn">Найти</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download_packs_btn">Скачать пакеты</string>
+</resources>
